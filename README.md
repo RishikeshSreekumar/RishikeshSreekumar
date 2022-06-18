@@ -1,7 +1,11 @@
 -# 💫About Me :
+
 👀 I’m interested in Android app development and Web development
+
 🌱 I’m currently learning Backend development
+
 💞️ I’m looking to collaborate on webdev projects
+
 📫 How to reach me - email me @ rishikeshpavithram@gmail.com
 
 # 💻Tech Stack
